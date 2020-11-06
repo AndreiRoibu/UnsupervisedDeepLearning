@@ -1,4 +1,4 @@
 # Unsupervised Deep Learning
-Repo for my course work on the Unsupervised Deep Learning course on Udemy: https://www.udemy.com/share/1021eSCUQYd15XQHo=/
+Repo for my course work on the Unsupervised Deep Learning course on Udemy: https://www.udemy.com/share/1021eSCUQYd15XQHo=/ by the [LazyProgrammer](https://github.com/lazyprogrammer)
 
 The data utilized for this project can be found here: https://www.kaggle.com/c/digit-recognizer/data?select=train.csv 
